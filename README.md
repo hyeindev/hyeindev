@@ -35,7 +35,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeindev&show_icons=true&theme=github_dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeindev&show_icons=true&theme=github_dark&cache_seconds=10" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeindev&layout=compact&theme=github_dark" width="40%"/>
 </p>
 
