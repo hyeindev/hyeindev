@@ -1,8 +1,8 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there 🙏 I'm Hyein </h1>
+<h1 align="left">Hi there 🙏 I'm Hyein </h1>
 
-<p align="center">
+<p align="left">
   🔧 Backend Developer | 💻 Java Enthusiast <br/>
   Passionate about building robust systems and clean architectures.
 </p>
