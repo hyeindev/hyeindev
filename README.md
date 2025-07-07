@@ -31,7 +31,7 @@
 ---
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/hyeindev?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/hyeindev?pet-id=1" width="1000" height="240"/>
 </a>
 
 ### 📈 GitHub Stats
@@ -44,7 +44,7 @@
 ---
 
 ### ✨ One Line About Me
-> 꾸준함이 실력을 만든다고 믿는 개발자입니다. ☕️📘
+> Teamwork-driven, quality-focused 📘
 <!--
 **hyeindev/hyeindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
