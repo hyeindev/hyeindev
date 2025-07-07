@@ -31,13 +31,6 @@
 
 ---
 
-### 🗂️ Recent Activities
-
-<!--START_SECTION:activity-->
-<!-- GitHub Actions로 최근 커밋 활동 자동으로 가져올 수 있어요 -->
-<!--END_SECTION:activity-->
-
----
 
 ### 📈 GitHub Stats
 
