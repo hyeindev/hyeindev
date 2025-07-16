@@ -40,7 +40,7 @@
 </table>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/hyeindev?pet-id=732493904585991548" width="1000" height="190"/>
+  <img src="https://render.gitanimals.org/lines/hyeindev?pet-id=1" width="1000" height="190"/>
 </a>
 
 
