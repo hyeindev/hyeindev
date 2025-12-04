@@ -48,16 +48,6 @@
 > Teamwork-driven, quality-focused 
 
 
----
-
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeindev&show_icons=true&theme=github_dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeindev&layout=compact&theme=github_dark&hide=html,css" width="40%"/>
-</p>
-
 
 <!--
 **hyeindev/hyeindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
