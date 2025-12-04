@@ -48,9 +48,13 @@
 > Teamwork-driven, quality-focused 
 
 
-### 📈 GitHub Stats
-<img src="https://streak-stats.demolab.com?user=hyeindev&theme=dark&hide_border=true" />
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hyeindev&theme=github-dark-blue" width="48%" />
+  <img src="https://img.shields.io/badge/Top%20Languages-JavaScript%20%7C%20Java%20%7C%20HTML-grey?style=for-the-badge" width="40%"/>
+</p>
 <!--
 **hyeindev/hyeindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
