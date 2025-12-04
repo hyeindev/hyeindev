@@ -48,6 +48,8 @@
 > Teamwork-driven, quality-focused 
 
 
+### 📈 GitHub Stats
+<img src="https://streak-stats.demolab.com?user=hyeindev&theme=dark&hide_border=true" />
 
 <!--
 **hyeindev/hyeindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
