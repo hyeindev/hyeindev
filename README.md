@@ -45,7 +45,6 @@
     <td valign="top" width="50%">
       <h3>📈 GitHub Stats</h3>
       <img src="https://img.shields.io/badge/Top%20Languages-JavaScript%20%7C%20Java%20%7C%20HTML-grey?style=for-the-badge" width="90%"/>
-      <br/><br/>
       <img src="https://streak-stats.demolab.com?user=hyeindev&theme=github-dark-blue" width="90%" />
     </td>
   </tr>
