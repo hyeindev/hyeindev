@@ -40,14 +40,14 @@
             <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
           </td>
         </tr>
-        <tr>
+        <!-- <tr>
       <td align="right"><b> testing</b></td>
       <td>
         <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"/>
         <img src="https://img.shields.io/badge/Mockito-00A17A?style=flat&logo=mockito&logoColor=white"/>
         <img src="https://img.shields.io/badge/Testcontainers-000000?style=flat&logo=testcontainers&logoColor=white"/>
       </td>
-    </tr>
+    </tr> -->
       </table>
     </td>
     <td valign="top" width="50%" height="100%">
