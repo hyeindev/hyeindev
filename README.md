@@ -62,6 +62,6 @@
   <img src="https://render.gitanimals.org/lines/hyeindev?pet-id=1" width="1000" height="190"/>
 </a>
 
-<br/>
 ### ✨ One Line About Me
-> Teamwork-driven, quality-focused
+> Teamwork-driven, quality-focused 
+
